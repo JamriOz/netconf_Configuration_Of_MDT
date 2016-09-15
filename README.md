@@ -1,6 +1,6 @@
 #Netconf
 
-This configuration is an extension of MDT API. This code is a netconf configuration that extends the capability of MDT API for supporting multi path within the same subscription group.
+This configuration is an extension of MDT API. This code is a Configuring Model-Driven Telemetry (MDT) with OpenConfig YANG OpenConfig YANG that uses a netconf client. This configuration extends the capability of MDT API for supporting multi path within the same subscription group.
 
 
 The extension API takes six arguments.
